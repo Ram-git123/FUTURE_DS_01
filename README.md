@@ -10,6 +10,8 @@ The goal of this project was to analyze historical sales data to identify trends
 
 📊 Dashboard Preview
 
+<img width="1344" height="768" alt="1000058140" src="https://github.com/user-attachments/assets/0d00f244-d22a-46b7-a0fe-cecd7f47c1bc" />
+
 <img width="666" height="357" alt="Screenshot 2025-12-17 135029" src="https://github.com/user-attachments/assets/ba6f9daf-fccd-4188-8ac6-e46a9b86ab74" />
 
 
